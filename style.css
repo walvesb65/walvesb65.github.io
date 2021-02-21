@@ -20,7 +20,7 @@ body{
 
 .parte1{
     display: flex;
-    height: 100vh;
+    height: 33vw;
     background-color:rgb(3, 211, 90);
 }
 
@@ -31,22 +31,11 @@ body{
 .parte2{
     display: flex;
     background-color: white;
-    width: 33vh;
+    width: 33vw;
 }
 
 .fotoprojeto{
-    width: 15vh;
-    height: 15vh;
+    width: 15vw;
+    height: 15vw;
     padding-left:15px;
 }
-/*
-body{
-    background-color: rgb(179, 142, 93);
-}
-
-h1{
-    text-align:center;
-}
-#px01{
-     text-align: center;
-}*/
