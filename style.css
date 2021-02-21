@@ -28,6 +28,17 @@ body{
     margin: auto;
     text-align: center;
 }
+.parte2{
+    display: flex;
+    background-color: white;
+    width: 33vh;
+}
+
+.fotoprojeto{
+    width: 15vh;
+    height: 15vh;
+    padding-left:15px;
+}
 /*
 body{
     background-color: rgb(179, 142, 93);
