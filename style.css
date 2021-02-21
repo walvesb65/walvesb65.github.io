@@ -1,4 +1,23 @@
+body{
+    margin: 0;
+}
 
+#topmenu{
+    display: flex;
+    background-color: rgb(8, 232, 120);
+    margin: 0;
+}
+#topmenu li {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+}
+
+#topmenu li:first-child{
+    margin-right: auto;
+}
+/*
 body{
     background-color: rgb(179, 142, 93);
 }
@@ -8,4 +27,4 @@ h1{
 }
 #px01{
      text-align: center;
-}
+}*/
