@@ -4,11 +4,11 @@ body{
 
 #topmenu{
     display: flex;
-    background-color: rgb(8, 232, 120);
+    background-color: rgb(37, 39, 38);
     margin: 0;
 }
 #topmenu li {
-    color: black;
+    color: rgb(3, 211, 90);
     text-decoration: none;
     display: block;
     padding: 15px;
@@ -16,6 +16,17 @@ body{
 
 #topmenu li:first-child{
     margin-right: auto;
+}
+
+.parte1{
+    display: flex;
+    height: 100vh;
+    background-color:rgb(3, 211, 90);
+}
+
+.centralizar{
+    margin: auto;
+    text-align: center;
 }
 /*
 body{
