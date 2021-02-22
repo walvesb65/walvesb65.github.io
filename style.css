@@ -30,18 +30,22 @@ body{
     height: 35vw;
     background-image: url(https://images8.alphacoders.com/484/484838.jpg);
     background-position: center;
-    background-size: cover;
-    
+    background-size: cover;  
 }
 
-.nomenotop{
-    text-align: top;
+h1{
+    position:relative;
+    z-index: 1;
+    left: 0px;
+    height: 350px;
+    
 }
 .centralizar{
+    position: relative;
     margin: auto;
     text-align: center;
-    position: relative, top;
 }
+
 .parte2{
     display: flex;
     background-color: white;
@@ -54,6 +58,6 @@ body{
     padding-left:15px;
 }
 
-#cortextoverde{
+.cortextoverde{
     color:rgb(17, 148, 72);;
 }
