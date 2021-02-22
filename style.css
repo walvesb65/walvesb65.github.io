@@ -58,6 +58,19 @@ h1{
     padding-left:15px;
 }
 
+.cortetxtografite{
+    color:rgb(202, 221, 208); ;
+}
 .cortextoverde{
     color:rgb(17, 148, 72);;
+}
+.minhaFoto{
+    width: 200px;
+    border-radius: 200%;
+    margin-top: 19vh;
+    position: absolute;
+    left: 50px;
+    height: 200px;
+    padding: 0;
+    background-size:500px ;
 }
