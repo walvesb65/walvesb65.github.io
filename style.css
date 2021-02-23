@@ -3,7 +3,6 @@ body{
     font-family: 'Roboto', sans-serif;
     }
 
-    
 #fixa{
     background-attachment: fixed;
 }
@@ -12,7 +11,6 @@ body{
     display: flex;
     background-color: rgb(19, 21, 20);
     margin: 0;
-    
     
 }
 #topmenu li {
@@ -66,11 +64,15 @@ h1{
     color:rgb(17, 148, 72);;
 }
 .minhaFoto{
-    width: 400px;
+    width: 250px;
     border-radius: 200%;
-    margin-top: 19vh;
+    margin-top:98px;
     position: absolute;
-    left: 50px;
-    height: 200px;
-    padding: 0;
+    left: 28px;
+    height: 250px;
+}
+button{
+    position: relative;
+    margin-bottom: 30px;
+    
 }
