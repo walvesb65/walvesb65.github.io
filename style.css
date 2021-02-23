@@ -47,8 +47,8 @@ h1{
 
 .parte2{
     display: flex;
-    background-color: white;
-    width: 33vw;
+    background-color: rgb(9, 43, 23);
+    width: 100vw;
 }
 
 .fotoprojeto{
@@ -74,5 +74,4 @@ h1{
 button{
     position: relative;
     margin-bottom: 30px;
-    
 }
